@@ -1,6 +1,9 @@
 # Klasifikasi Customer Churn Menggunakan Metode Support Vector Machine (SVM)
 Customer churn merujuk pada persentase pelanggan yang berhenti menggunakan produk atau layanan dalam periode tertentu. Dalam konteks perbankan, customer churn dapat diartikan sebagai perpindahan pelanggan dari satu bank ke bank lain, yang mengakibatkan hilangnya pelanggan secara periodik. Fenomena ini dapat berpengaruh besar terhadap pendapatan perusahaan perbankan. Oleh karena itu, penggunaan model Support Vector Machine (SVM) untuk menganalisis data sampel dapat meningkatkan akurasi prediksi churn, sehingga membantu bank komersial memprediksi customer churn dengan lebih tepat dan efektif.
 
+# Dataset
+https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset 
+
 # Terdapat 12 atribut pada data yang digunakan, yaitu:
 1. Customer ID
 2. Credit Score
